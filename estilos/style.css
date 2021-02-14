@@ -1,20 +1,18 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
-    
 }
 
-/*body {
+body {
     background-color: #acacff;
+}
 
-}*/
-
-/*main {
+main {
     background-color: white;
-    width: 800px;
+    width: 750px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
-}*/
+}
 
 h1 {
     font-size: 2em;
@@ -43,7 +41,7 @@ a:hover {
 }
 button{
     padding:30px;
-    background-color: yellow;
+    background-color: #acacff;
     font-family: Arial;
     font-size: 14pt;
         
